@@ -19,12 +19,12 @@ JavaScript Package For Removing First Element Of An Array. And It Also Return Th
 
 #### For Development
 ```js
-<script rsc=""></script>
+<script src="https://rawgit.com/Prosen-Ghosh/remove-first-element/master/remove-first.js"></script>
 ```
 
 #### For Production
 ```js
-<script rsc=""></script>
+<script src="https://cdn.rawgit.com/Prosen-Ghosh/remove-first-element/90851024/remove-first.js"></script>
 ```
 
 ## Usage
